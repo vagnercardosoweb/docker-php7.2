@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>CodeIgniter Tutorial</title>
+    <title>Web Programming</title>
 </head>
 <body>
 
